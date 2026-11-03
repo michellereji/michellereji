@@ -2,8 +2,7 @@
 
 <!-- Header / Banner Image -->
 <p align="center">
-  <img src="<img width="735" height="460" alt="bannergithub1" src="https://github.com/user-attachments/assets/0d442d1e-1ab2-4044-8eed-3549e0f841ae" />
-" alt="Header Banner" width="100%" />
+ <img src="bannergithub1.png" alt="Header Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 🤝 I'm Michelle Reji</h1>
@@ -19,7 +18,7 @@
 " alt="Profile Visual" width="100%" />
     </td>
     <td width="70%">
-      Hey there! I'm <b>[Your Name]</b>.
+      Hey there! I'm <b>Michelle Reji</b>.
       <br/><br/>
       I'm a computer science and business systems student diving deep into software development.
       <br/><br/>
@@ -28,10 +27,13 @@
       When I'm not coding, you can usually find me exploring Machine Learning algorithms and building iOS applications.
       <br/><br/>
       <br/><br/>
-      <b>🛠️ Tech Stack:</b><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
-      <a href="#"><img src="<img width="447" height="447" alt="htmllogo" src="https://github.com/user-attachments/assets/cda305a0-3dc0-4ec2-ade1-ff10a63aa2c0" />
+    
+      <!-- Tech Stack Section Example -->
+<b>🛠️ Tech Stack:</b><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />>
 "/></a>
     </td>
   </tr>
