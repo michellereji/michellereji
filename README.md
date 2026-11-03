@@ -1,7 +1,5 @@
 <!-- Header Banner -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d2611dd7-2d55-49e3-8502-8b6431e45962" alt="Header Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 🤝 I'm Michelle Reji</h1>
 
