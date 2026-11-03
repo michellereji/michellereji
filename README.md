@@ -45,6 +45,5 @@
 ### 📊 Contribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michellereji&show_icons=true&theme=dark" alt="Michelle's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellereji&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=michellereji&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
