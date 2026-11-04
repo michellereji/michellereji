@@ -45,5 +45,5 @@
 ### 📊 Contribution
 
 <p align="center">
-  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=michellereji&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=michellereji&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" width="100%" />
 </p>
