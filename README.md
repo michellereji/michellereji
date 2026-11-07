@@ -45,5 +45,5 @@
 ### 📊 Contribution
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=michellereji&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=michellereji&theme=dark&hide_border=true&v=1" alt="GitHub Streak" width="100%" />
 </p>
