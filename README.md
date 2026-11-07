@@ -42,9 +42,5 @@
 
 ---
 
-### 📊 Contribution
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=michellereji&show_icons=true&theme=dark" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=michellereji&layout=compact&theme=dark" width="49%" />
-</p>
+
