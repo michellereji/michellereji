@@ -45,5 +45,6 @@
 ### 📊 Contribution
 
 <p align="center">
-  <img src="https://kapsule.vercel.app/api?name=Michelle%20Reji&type=soft&github=michellereji" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=michellereji&show_icons=true&theme=dark" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=michellereji&layout=compact&theme=dark" width="49%" />
 </p>
