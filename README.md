@@ -45,5 +45,5 @@
 ### 📊 Contribution
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=michellereji&theme=dark&hide_border=true&v=1" alt="GitHub Streak" width="100%" />
+  <img src="https://kapsule.vercel.app/api?name=Michelle%20Reji&type=soft&github=michellereji" width="100%" />
 </p>
